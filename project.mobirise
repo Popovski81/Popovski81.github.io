@@ -369,15 +369,15 @@
         },
         {
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "socialFacebook": false,
             "postsNumber": 5,
             "socialGoogle": false,
             "socialDisqus": true,
             "shortName": "test-EmMsn1SmTm",
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
             "overlay": true,
