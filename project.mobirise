@@ -56,7 +56,7 @@
         "title": "ASI Newsletter - February 2018",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<script id=\"dsq-count-scr\" src=\"//test-emmsn1smtm.disqus.com/count.js\" async></script>",
         "html_before": ""
       },
       "components": [
