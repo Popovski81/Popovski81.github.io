@@ -24,10 +24,10 @@ body {
 }
 .display-1 {
   font-family: 'Fjalla One', sans-serif;
-  font-size: 2.8rem;
+  font-size: 2.5rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 4.48rem;
+  font-size: 4rem;
 }
 .display-2 {
   font-family: 'Oswald', sans-serif;
@@ -64,9 +64,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.24rem;
-    font-size: calc( 1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2rem;
+    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.2rem;
@@ -1491,19 +1491,42 @@ body {
   line-height: 150%;
 }
 .cid-qJFLX6sZBE {
-  padding-top: 45px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qJFLX6sZBE .mbr-section-subtitle {
   color: #767676;
   text-align: left;
+  line-height: 150%;
 }
 .cid-qJFLX6sZBE DIV {
   color: #232323;
 }
 .cid-qJFLX6sZBE .mbr-section-subtitle DIV {
   color: #767676;
+  text-align: left;
+}
+.cid-qJG595XSLQ {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qJG595XSLQ .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+  line-height: 100%;
+}
+.cid-qJG595XSLQ DIV {
+  color: #232323;
+}
+.cid-qJG595XSLQ .mbr-section-subtitle DIV {
+  color: #767676;
+  text-align: left;
+}
+.cid-qJG595XSLQ H2 {
+  color: #767676;
+  text-align: left;
 }
 .cid-qJFk3UgZlc {
   padding-top: 75px;
